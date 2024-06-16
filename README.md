@@ -20,6 +20,10 @@
 ### Implementation Details 📝
 I have implemented each classifier using Python and relevant libraries such as scikit-learn, XGBoost, Matplotlib etc. The code is available in a Google Colab notebook due to the requirement of executing XGBoost, which cannot be done directly on a local system.
 
+### Related Documents and Reports 📄
+The project documentation provides a comprehensive overview of the methodologies employed, analyses conducted, and results obtained throughout the development of the Network Intrusion Detection System, offering valuable insights into the intricacies of network security and machine learning integration. Click here for
+[Project Documentation](https://drive.google.com/drive/folders/1gk6qViHF3ZknOfd2SFL1V_y_KlFWBsev?usp=sharing) 
+
 ### Contact 📬
 For any inquiries or feedback, please contact [Harsha G](mailto:harshag3106@gmail.com)
 
