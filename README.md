@@ -24,6 +24,10 @@ I have implemented each classifier using Python and relevant libraries such as s
 The project documentation provides a comprehensive overview of the methodologies employed, analyses conducted, and results obtained throughout the development of the Network Intrusion Detection System, offering valuable insights into the intricacies of network security and machine learning integration. Click here for
 [Project Documentation](https://drive.google.com/drive/folders/1gk6qViHF3ZknOfd2SFL1V_y_KlFWBsev?usp=sharing) 
 
+### Source Code 💻
+The source code for this project is available in the following Google Colab notebook:
+[Link to Source code](https://colab.research.google.com/drive/1A4BPpyvYh895IFdhpcJUnqo5cG83ihcs?usp=drive_link)
+
 ### Contact 📬
 For any inquiries or feedback, please contact [Harsha G](mailto:harshag3106@gmail.com)
 
@@ -33,3 +37,6 @@ Contributions to this project are welcome! You can contribute by:
 - Enhancing the preprocessing techniques.
 - Optimizing the feature selection process.
 - Providing insights and suggestions for further improvements.
+
+### License 📜
+This project is licensed under the General Public License (GPL).
