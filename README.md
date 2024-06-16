@@ -2,7 +2,7 @@
 
 **Note 🚨**: The source code for this project is available in the README file. The project was developed using Google Colab due to restrictions of the XGBoost classifier, which cannot be executed directly on a local system.
 
-### Introduction
+### Overview
 🌐 In today's interconnected world, cybersecurity threats pose significant challenges to individuals and organizations alike. A crucial aspect of defending against these threats is the ability to detect and respond to network intrusions effectively. A Network Intrusion Detection System (NIDS) plays a vital role in this regard by monitoring network traffic for suspicious activity and alerting administrators to potential security breaches.
 
 🛡️ In this project, we focus on building a NIDS using the nSL KDD dataset, a widely used benchmark dataset in the field of intrusion detection research. The dataset comprises a vast amount of network traffic data captured from various network activities, including both normal and malicious behavior. With around 1.5 lakh instances and 23 labels representing different types of network attacks, the NSL KDD dataset presents a challenging yet realistic scenario for developing intrusion detection systems.
