@@ -29,7 +29,7 @@ The project documentation provides a comprehensive overview of the methodologies
 
 ### Source Code 💻
 The source code for this project is available in the following Google Colab notebook:
-[Link to Source code](https://colab.research.google.com/drive/1A4BPpyvYh895IFdhpcJUnqo5cG83ihcs?usp=drive_link)
+[Link to Source code](imharshag/pratheeth-portfolio)
 
 ### Contact 📬
 For any inquiries or feedback, please contact [Harsha G](mailto:harshag3106@gmail.com)
